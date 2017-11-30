@@ -14,3 +14,8 @@ class Demo{
         System.out.println(name+":::"+country);
     }
 }
+class Test{
+    public void test(){
+        System.out.println("sssss");
+    }
+}
