@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "./jre\bin\java.exe -jar keygen.jar",0
